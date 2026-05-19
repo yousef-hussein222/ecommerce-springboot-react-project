@@ -1,0 +1,6 @@
+Backend/target/
+Frontend/node_modules/
+Frontend/.env
+Frontend/dist/
+.idea/
+Frontend/__MACOSX/
